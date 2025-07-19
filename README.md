@@ -376,13 +376,11 @@ plot <- plot_ly( data_quantil, x = ~quantiles_secs,  y = ~quantiles_id,
 
 htmlwidgets::saveWidget(plot, "html/plot.html")
 ```
-<details>
-<summary>Ver gráfico interactivo</summary>
-
 <p>
-<a href="html/plot.html">Haz clic aquí para ver el gráfico interactivo</a>
+<a href="https://joelcae.github.io/analisis-mmcdmx2025/html/plot.html">Ver el gráfico interactivo</a>
 </p>
 
-</details>
 
-[![Gráfico](html/plot.png)](html/plot.html)
+<a href="https://joelcae.github.io/analisis-mmcdmx2025/html/plot.html" target="_blank">
+  <img src="html/plot.html" alt="Gráfico">
+</a>
