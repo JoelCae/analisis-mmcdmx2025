@@ -380,7 +380,4 @@ htmlwidgets::saveWidget(plot, "html/plot.html")
 <a href="https://joelcae.github.io/analisis-mmcdmx2025/html/plot.html">Ver el gráfico interactivo</a>
 </p>
 
-
-<a href="https://joelcae.github.io/analisis-mmcdmx2025/html/plot.html" target="_blank">
-  <img src="html/plot.html" alt="Gráfico">
-</a>
+<a href="https://joelcae.github.io/analisis-mmcdmx2025/html/plot.html" target="_blank"><img src="html/plot.html.png"></a>
