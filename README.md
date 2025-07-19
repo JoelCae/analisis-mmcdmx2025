@@ -384,4 +384,5 @@ htmlwidgets::saveWidget(plot, "html/plot.html")
 </p>
 
 </details>
+
 [![Gráfico](html/plot.png)](html/plot.html)
