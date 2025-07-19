@@ -376,5 +376,12 @@ plot <- plot_ly( data_quantil, x = ~quantiles_secs,  y = ~quantiles_id,
 
 htmlwidgets::saveWidget(plot, "html/plot.html")
 ```
+<details>
+<summary>Ver gráfico interactivo</summary>
 
+<p>
+<a href="html/plot.html">Haz clic aquí para ver el gráfico interactivo</a>
+</p>
+
+</details>
 [![Gráfico](plot.png)](html/plot.html)
