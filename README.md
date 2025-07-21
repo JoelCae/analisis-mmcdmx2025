@@ -9,7 +9,7 @@ scraping dentro de la pagina oficial de resultados de Márcate
 resultados son públicos. Dicha extracción se realizó el día 15 de Julio
 de 2025, cualquier modificación o adición posterior no se verá reflejada
 en este análisis. Para cuidar información personal, este análisis se
-centra en resultados agregados y no individuales.
+centra en resultados agregados y no individuales. PRUEBA
 
 ## LIMPIEZA DE LOS DATOS
 
