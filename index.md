@@ -1,7 +1,3 @@
----
-layout: home
-title: "Análisis MMCDMX 2025"
----
 
 ## OBTENCIÓN DE LOS DATOS
 
