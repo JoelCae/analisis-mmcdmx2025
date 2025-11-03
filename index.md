@@ -524,3 +524,4 @@ ggplot(data_long, aes(x = km, y = tiempo, fill = tipo, col = tipo)) +
 ![](analisis_files/figure-gfm/unnamed-chunk-21-1.png)<!-- -->
 
 
+
