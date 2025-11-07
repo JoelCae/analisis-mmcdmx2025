@@ -1,7 +1,9 @@
 Análisis de datos del MMCDMX 2025
 ================
+Joel Castillo Espinosa
+2025/Julio
 
-## Obtención de datos
+# Obtención de datos
 
 Para la obtención de todos los datos de los participantes del Medio
 Maratón de la Ciudad de México 2025 (MMCDMX 2025) se realizó un web
@@ -13,7 +15,7 @@ cualquier modificación o adición posterior no se verá reflejada en este
 análisis. Para cuidar información personal, este análisis se centra en
 resultados agregados y no individuales.
 
-## Limpieza de datos
+# Limpieza de datos
 
 Se cargan los datos del web scraping. La base contiene registros para un
 total de 29641 números de participantes, con un agregado de 24
@@ -526,6 +528,54 @@ ggplot(data_long, aes(x = km, y = tiempo, fill = tipo, col = tipo)) +
 ```
 
 ![](analisis_files/figure-gfm/unnamed-chunk-21-1.png)<!-- -->
+
+# Contact me
+
+<hr>
+<style>
+.socials {
+  text-align: center;
+  margin-top: 30px;
+  font-family: sans-serif;
+}
+.socials a {
+  text-decoration: none;
+  font-size: 18px;
+  margin: 0 20px;
+  color: #333;
+  position: relative;
+  font-weight: 500;
+}
+.socials a::after {
+  content: attr(title);
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #333;
+  color: white;
+  padding: 3px 8px;
+  border-radius: 5px;
+  font-size: 12px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+.socials a:hover::after {
+  opacity: 1;
+}
+</style>
+
+<div class="socials">
+
+<a href="https://joelcastillo.netlify.app" target="_blank" title="Website">Website</a>
+<a href="https://github.com/JoelCae" target="_blank" title="GitHub">GitHub</a>
+<a href="https://www.linkedin.com/in/joel-castillo-espinosa" target="_blank" title="LinkedIn">LinkedIn</a>
+
+</div>
+
+<hr>
+
 
 
 
