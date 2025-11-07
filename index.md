@@ -554,7 +554,7 @@ ggplot(data_long, aes(x = km, y = tiempo, fill = tipo, col = tipo)) +
   left: 50%;
   transform: translateX(-50%);
   background-color: #333;
-  color: white;
+  color: blue;
   padding: 3px 8px;
   border-radius: 5px;
   font-size: 12px;
@@ -576,6 +576,7 @@ ggplot(data_long, aes(x = km, y = tiempo, fill = tipo, col = tipo)) +
 </div>
 
 <hr>
+
 
 
 
