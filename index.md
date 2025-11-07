@@ -1,6 +1,7 @@
 Análisis de datos del MMCDMX 2025
 ================
 Joel Castillo Espinosa
+
 2025/Julio
 
 # Obtención de datos
@@ -575,6 +576,7 @@ ggplot(data_long, aes(x = km, y = tiempo, fill = tipo, col = tipo)) +
 </div>
 
 <hr>
+
 
 
 
