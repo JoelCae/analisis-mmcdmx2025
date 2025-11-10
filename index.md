@@ -543,7 +543,7 @@ ggplot(data_long, aes(x = km, y = tiempo, fill = tipo, col = tipo)) +
   text-decoration: none;
   font-size: 18px;
   margin: 0 20px;
-  color: white;
+  color: #333;
   position: relative;
   font-weight: 500;
 }
@@ -576,10 +576,3 @@ ggplot(data_long, aes(x = km, y = tiempo, fill = tipo, col = tipo)) +
 </div>
 
 <hr>
-
-
-
-
-
-
-
